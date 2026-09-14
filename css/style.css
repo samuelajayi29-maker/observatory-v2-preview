@@ -169,3 +169,22 @@ body.dim-infra{--accent:#1A8A7A}
 /* ---------- home hero ---------- */
 .lead{font-size:19px;max-width:60ch}
 @media (max-width:900px){.buckets{grid-template-columns:1fr}}
+
+
+/* ---------- bucket blocks: tracker state and latest items in one unit ---------- */
+.bucket-block{background:var(--surface);border:1px solid var(--rule);border-top:3px solid var(--b);margin-bottom:22px}
+.bb-head{display:flex;align-items:baseline;gap:12px;flex-wrap:wrap;padding:14px 18px 12px;border-bottom:1px solid var(--rule)}
+.bb-head h2{margin:0;font-size:20px;font-weight:600}
+.bb-head .chip{display:inline-block;width:9px;height:9px;border-radius:50%;background:var(--b);margin-right:9px;vertical-align:1px}
+.bb-meta{margin-left:auto;font-family:var(--sans);font-size:12.5px;color:var(--muted)}
+.bb-meta a{color:var(--b);border:0}
+.bb-meta a:hover{border-bottom:1px solid var(--b)}
+.bb-body{display:grid;grid-template-columns:236px minmax(0,1fr);gap:0}
+.bb-figs{margin:0;padding:14px 18px;border-right:1px solid var(--rule);font-family:var(--sans)}
+.bb-figs>div{display:flex;justify-content:space-between;gap:10px;padding:7px 0;border-bottom:1px solid var(--rule)}
+.bb-figs>div:last-child{border-bottom:0}
+.bb-figs dt{color:var(--muted);font-size:12.5px;margin:0}
+.bb-figs dd{margin:0;font-size:13px;font-weight:600;white-space:nowrap}
+.bb-body ul.feed{border:0;margin:0}
+.bb-body ul.feed li{padding:11px 18px}
+@media (max-width:900px){.bb-body{grid-template-columns:1fr}.bb-figs{border-right:0;border-bottom:1px solid var(--rule)}}
