@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 430" width="820" height="430" role="img" aria-label="Bar chart of data centre capacity by delivery status: energised is a small fraction of announced.">
+<rect width="820" height="430" fill="#FFFFFF"/>
+<text x="28" y="38" font-family="'Source Serif 4',Georgia,serif" font-size="21" font-weight="600" fill="#14202B">Data centre capacity in Africa by delivery status</text>
+<text x="28" y="60" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#6B7A85">Megawatts named in projects we track. Announced is not built.</text>
+<text x="236" y="108" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#14202B">Energised, serving load</text>
+<rect x="250" y="92" width="10.1" height="34" fill="#1B6B4A"/>
+<text x="270.1" y="114" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#14202B">6.4 MW</text>
+<text x="236" y="164" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#14202B">Under construction</text>
+<rect x="250" y="148" width="406.8" height="34" fill="#B98A1F"/>
+<text x="666.8" y="170" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#14202B">258 MW</text>
+<text x="236" y="220" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#14202B">Approved, not building</text>
+<rect x="250" y="204" width="274.3" height="34" fill="#C9D2CB"/>
+<text x="534.3" y="226" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#14202B">174 MW</text>
+<text x="236" y="276" text-anchor="end" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#14202B">Announced, no consent</text>
+<rect x="250" y="260" width="394.2" height="34" fill="#C9D2CB"/>
+<text x="654.2" y="282" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600" fill="#14202B">250 MW</text>
+<text x="250" y="336" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#6B7A85">16 of 22 projects in the register carry no published megawatt figure and are excluded.</text>
+<text x="250" y="358" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#1B6B4A">0.9% of the capacity named here is serving load.</text>
+<line x1="28" y1="384" x2="792" y2="384" stroke="#E2E5E2" stroke-width="1"/>
+<text x="28" y="403" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#6B7A85">Baseload-style prototype · data: AI Access Observatory ledger · CC BY 4.0 · compiled 2026-09-11</text>
+</svg>
