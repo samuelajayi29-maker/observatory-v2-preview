@@ -319,9 +319,12 @@
   "submitted": false
  },
  "https://www.technology.org/2026/08/24/openai-gpt-5-6-sol-price-cut-developers/": {
-  "status": "none",
+  "archive_url": "https://web.archive.org/web/20260921123612/https://www.technology.org/2026/08/24/openai-gpt-5-6-sol-price-cut-developers/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "204",
   "checked_at": "2026-09-21",
-  "submitted": true
+  "submitted": false
  },
  "https://www.trendforce.com/presscenter/": {
   "archive_url": "https://web.archive.org/web/20260713183927/https://www.trendforce.com/presscenter",
@@ -451,5 +454,61 @@
   "status": "none",
   "checked_at": "2026-09-21",
   "submitted": true
+ },
+ "https://www.aipricing.guru/subscriptions/claude-max-20x/": {
+  "archive_url": "https://web.archive.org/web/20260916024829/https://www.aipricing.guru/subscriptions/claude-max-20x/",
+  "archived_at": "2026-09-16",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://www.anthropic.com/supported-countries": {
+  "archive_url": "https://web.archive.org/web/20260919112849/https://www.anthropic.com/supported-countries",
+  "archived_at": "2026-09-19",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/individuals": {
+  "archive_url": "https://web.archive.org/web/20260920031858/https://www.microsoft.com/en-us/microsoft-365-copilot/pricing/individuals",
+  "archived_at": "2026-09-20",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://www.perplexity.ai/help-center/en/articles/10353002-billing-faq-for-pro-plan-subscribers": {
+  "archive_url": "https://web.archive.org/web/20260406173424/https://www.perplexity.ai/help-center/en/articles/10353002-billing-faq-for-pro-plan-subscribers",
+  "archived_at": "2026-04-06",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://www.perplexity.ai/hub/pricing": {
+  "archive_url": "https://web.archive.org/web/20260827003856/https://www.perplexity.ai/hub/pricing",
+  "archived_at": "2026-08-27",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://x.ai/legal/terms-of-service": {
+  "archive_url": "https://web.archive.org/web/20260920181732/https://x.ai/legal/terms-of-service",
+  "archived_at": "2026-09-20",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://x.ai/pricing": {
+  "archive_url": "https://web.archive.org/web/20260920221651/https://x.ai/pricing",
+  "archived_at": "2026-09-20",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
  }
 }

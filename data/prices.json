@@ -394,7 +394,9 @@
    "temporal_status": "measured",
    "headline_eligible": false,
    "evidence_host": "technology.org",
-   "source_quality": "ok"
+   "source_quality": "ok",
+   "archive_url": "https://web.archive.org/web/20260921123612/https://www.technology.org/2026/08/24/openai-gpt-5-6-sol-price-cut-developers/",
+   "archived_at": "2026-09-21"
   },
   {
    "date": "2027-01-01",

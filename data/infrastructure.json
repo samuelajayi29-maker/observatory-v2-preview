@@ -51,7 +51,9 @@
    "headline_eligible": false,
    "originating_source": "TechAfrica News",
    "evidence_host": "techafricanews.com",
-   "source_quality": "ok"
+   "source_quality": "ok",
+   "archive_url": "https://web.archive.org/web/20260921123344/https://techafricanews.com/2026/09/07/digital-realty-opens-6-4mw-nairobi-two-data-center-east-africa/",
+   "archived_at": "2026-09-21"
   },
   {
    "name": "NSIA AI data centre",
@@ -113,7 +115,9 @@
    "headline_eligible": false,
    "originating_source": "TechAfrica News",
    "evidence_host": "techafricanews.com",
-   "source_quality": "ok"
+   "source_quality": "ok",
+   "archive_url": "https://web.archive.org/web/20260921123009/https://techafricanews.com/2026/09/08/egypt-vodafone-elsewedy-cassava-1bn-data-centre/",
+   "archived_at": "2026-09-21"
   },
   {
    "name": "Hassan Allam data centres (first phase)",
@@ -155,7 +159,9 @@
    "headline_eligible": false,
    "originating_source": "TechAfrica News",
    "evidence_host": "techafricanews.com",
-   "source_quality": "ok"
+   "source_quality": "ok",
+   "archive_url": "https://web.archive.org/web/20260921123321/https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/",
+   "archived_at": "2026-09-21"
   },
   {
    "name": "Huawei AI data centre bid",
@@ -195,7 +201,9 @@
    "headline_eligible": false,
    "originating_source": "TechAfrica News",
    "evidence_host": "techafricanews.com",
-   "source_quality": "ok"
+   "source_quality": "ok",
+   "archive_url": "https://web.archive.org/web/20260921122930/https://techafricanews.com/2026/08/07/airtels-150m-kenya-data-centre-now-targets-july-2027-launch/",
+   "archived_at": "2026-09-21"
   },
   {
    "name": "Mombasa AI data centre",
@@ -300,7 +308,9 @@
    "headline_eligible": false,
    "originating_source": "TechAfrica News",
    "evidence_host": "techafricanews.com",
-   "source_quality": "ok"
+   "source_quality": "ok",
+   "archive_url": "https://web.archive.org/web/20260921122937/https://techafricanews.com/2026/08/26/cassava-ai-factory-ranks-36th-top500/",
+   "archived_at": "2026-09-21"
   },
   {
    "name": "Raxio expansion programme",
@@ -490,7 +500,9 @@
    "headline_eligible": false,
    "originating_source": "TechAfrica News",
    "evidence_host": "techafricanews.com",
-   "source_quality": "ok"
+   "source_quality": "ok",
+   "archive_url": "https://web.archive.org/web/20260921122927/https://techafricanews.com/2026/08/10/project-bridge-enters-execution-phase-with-bridge-oa-incorporation/",
+   "archived_at": "2026-09-21"
   }
  ],
  "context": [
