@@ -4,8 +4,8 @@
  "validated_at": "2026-09-21",
  "counts": {
   "rows_checked": 692,
-  "rows_passing": 351,
-  "rows_quarantined": 341,
+  "rows_passing": 363,
+  "rows_quarantined": 329,
   "rows_missing_archive": 11,
   "rows_with_bad_url": 8,
   "rows_missing_status": 0,
@@ -63,8 +63,8 @@
   },
   "affordability.csv": {
    "rows": 130,
-   "passing": 0,
-   "quarantined": 130,
+   "passing": 12,
+   "quarantined": 118,
    "missing_archive": 0,
    "bad_url": 0
   },
