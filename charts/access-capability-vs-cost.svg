@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" width="960" height="640" role="img" aria-label="Scatter plot of model capability against cost, divided into named capability and affordability tiers.">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 640" width="960" height="640" role="img" aria-label="Models plotted by capability against the cost of a standard workload. Within the top 5-point capability band the same work costs 2.8 times more on the dearest model than the cheapest; across all 13 models the raw spread is 58 times, which reflects product segmentation rather than market access.">
 <rect width="960" height="640" fill="#FFFFFF"/>
 <text x="28" y="38" font-family="'Source Serif 4',Georgia,serif" font-size="21" font-weight="600" fill="#0D1B2A">What a million tokens costs, against how capable the model is</text>
-<text x="28" y="60" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">Standard workload: 1,000,000 input tokens + 250,000 output tokens, at list rates. Vertical scale logarithmic. Tiers are defined in the method, not drawn to fit the models.</text>
+<text x="28" y="60" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" fill="#66757F">Standard workload: 1,000,000 input tokens + 250,000 output tokens, at list rates. Vertical scale logarithmic. Within the top 5-point capability band, the same work costs 2.8x more on the dearest model than on the cheapest (3 models in band).</text>
 <rect x="510.0" y="267.6" width="406.0" height="254.4" fill="#1A8A7A" fill-opacity="0.1"/>
 <text x="522.0" y="470.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12.5" font-weight="600" fill="#0D1B2A">Frontier value</text>
 <text x="522.0" y="486.0" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">capable and affordable</text>
@@ -71,6 +71,7 @@
 <circle cx="225.8" cy="413.1" r="4.6" fill="#0D1B2A" stroke="#FFFFFF" stroke-width="1.5"/>
 <text x="214.5" y="505.8" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11.5" fill="#0D1B2A">DeepSeek V4 Flash 0731</text>
 <circle cx="205.5" cy="501.8" r="4.6" fill="#0D1B2A" stroke="#FFFFFF" stroke-width="1.5"/>
+<text x="28" y="570" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12" fill="#66757F">Raw spread across every model priced, cheapest to dearest: 58x. That measures product segmentation, not what any market pays for the same capability.</text>
 <line x1="28" y1="594" x2="932" y2="594" stroke="#E2E5E2"/>
 <text x="28" y="613" font-family="IBM Plex Sans,-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11" fill="#66757F">Data: the Observatory record · CC BY 4.0 · compiled 2026-09-11 · list prices, not the price you pay</text>
 </svg>
