@@ -71,7 +71,9 @@
    "headline_eligible": false,
    "originating_source": "BusinessDay",
    "evidence_host": "businessday.ng",
-   "source_quality": "ok"
+   "source_quality": "ok",
+   "archive_url": "https://web.archive.org/web/20260911080947/https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/",
+   "archived_at": "2026-09-11"
   },
   {
    "name": "MTN AI-ready data centres",
@@ -254,7 +256,9 @@
    "headline_eligible": false,
    "originating_source": "FurtherAfrica",
    "evidence_host": "furtherafrica.com",
-   "source_quality": "ok"
+   "source_quality": "ok",
+   "archive_url": "https://web.archive.org/web/20260921122736/https://furtherafrica.com/2026/08/04/equinix-wins-approval-for-major-cape-town-data-centre-campus/",
+   "archived_at": "2026-09-21"
   },
   {
    "name": "Teraco portfolio (including JB7)",
@@ -400,7 +404,9 @@
    "headline_eligible": false,
    "originating_source": "ITWeb Africa",
    "evidence_host": "itweb.africa",
-   "source_quality": "ok"
+   "source_quality": "ok",
+   "archive_url": "https://web.archive.org/web/20260921122809/https://itweb.africa/article/gabon-launches-sovereign-data-centre/xnklOvz14JDq4Ymz",
+   "archived_at": "2026-09-21"
   },
   {
    "name": "Cybastion AI hub",
@@ -420,7 +426,9 @@
    "headline_eligible": false,
    "originating_source": "FurtherAfrica",
    "evidence_host": "furtherafrica.com",
-   "source_quality": "ok"
+   "source_quality": "ok",
+   "archive_url": "https://web.archive.org/web/20260921123220/https://furtherafrica.com/2026/09/02/cybastion-cameroon-investment-anchors-a-75m-ai-hub/",
+   "archived_at": "2026-09-21"
   },
   {
    "name": "Google African cloud region (Nairobi)",

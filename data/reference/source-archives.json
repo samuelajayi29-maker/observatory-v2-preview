@@ -40,9 +40,12 @@
   "submitted": false
  },
  "https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/": {
-  "status": "none",
+  "archive_url": "https://web.archive.org/web/20260911080947/https://businessday.ng/technology/article/nsia-bets-on-100mw-ai-data-centre-to-power-nigerias-digital-economy/",
+  "archived_at": "2026-09-11",
+  "status": "found",
+  "http_status": "200",
   "checked_at": "2026-09-21",
-  "submitted": true
+  "submitted": false
  },
  "https://cyprus-mail.com/2026/08/25/africas-smartphone-market-suffers-first-decline-in-three-years/": {
   "archive_url": "https://web.archive.org/web/20260921122637/https://cyprus-mail.com/2026/08/25/africas-smartphone-market-suffers-first-decline-in-three-years/",
@@ -61,9 +64,12 @@
   "submitted": false
  },
  "https://deepseekv4pro.com/news/deepseek-v4-pro-0813-official-release-opus-fable-benchmarks": {
-  "status": "none",
+  "archive_url": "https://web.archive.org/web/20260921122725/https://deepseekv4pro.com/news/deepseek-v4-pro-0813-official-release-opus-fable-benchmarks",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
   "checked_at": "2026-09-21",
-  "submitted": true
+  "submitted": false
  },
  "https://developingtelecoms.com/telecom-business/telecom-investment-mergers/20549-cote-divoire-approves-starlin": {
   "status": "none",
@@ -71,14 +77,20 @@
   "submitted": true
  },
  "https://furtherafrica.com/2026/08/04/equinix-wins-approval-for-major-cape-town-data-centre-campus/": {
-  "status": "none",
+  "archive_url": "https://web.archive.org/web/20260921122736/https://furtherafrica.com/2026/08/04/equinix-wins-approval-for-major-cape-town-data-centre-campus/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
   "checked_at": "2026-09-21",
-  "submitted": true
+  "submitted": false
  },
  "https://furtherafrica.com/2026/09/02/cybastion-cameroon-investment-anchors-a-75m-ai-hub/": {
-  "status": "none",
+  "archive_url": "https://web.archive.org/web/20260921123220/https://furtherafrica.com/2026/09/02/cybastion-cameroon-investment-anchors-a-75m-ai-hub/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
   "checked_at": "2026-09-21",
-  "submitted": true
+  "submitted": false
  },
  "https://iafrica.com/cape-town-approves-two-hyperscale-data-centres-totalling-174mw-among-africas-largest-new-g": {
   "status": "none",
@@ -91,9 +103,12 @@
   "submitted": true
  },
  "https://itweb.africa/article/gabon-launches-sovereign-data-centre/xnklOvz14JDq4Ymz": {
-  "status": "none",
+  "archive_url": "https://web.archive.org/web/20260921122809/https://itweb.africa/article/gabon-launches-sovereign-data-centre/xnklOvz14JDq4Ymz",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
   "checked_at": "2026-09-21",
-  "submitted": true
+  "submitted": false
  },
  "https://kie.ai/blog/kimi-k3-pricing": {
   "archive_url": "https://web.archive.org/web/20260814064310/https://kie.ai/blog/kimi-k3-pricing",
@@ -112,9 +127,12 @@
   "submitted": false
  },
  "https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna": {
-  "status": "none",
+  "archive_url": "https://web.archive.org/web/20260921122830/https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
   "checked_at": "2026-09-21",
-  "submitted": true
+  "submitted": false
  },
  "https://my.idc.com/getdoc.jsp?containerId=IDC_P37251": {
   "archive_url": "https://web.archive.org/web/20260526195345/https://my.idc.com/getdoc.jsp?containerId=IDC_P37251",
@@ -138,9 +156,12 @@
   "submitted": true
  },
  "https://omdia.tech.informa.com/": {
-  "status": "none",
+  "archive_url": "https://web.archive.org/web/20260914042150/https://omdia.tech.informa.com/",
+  "archived_at": "2026-09-14",
+  "status": "found",
+  "http_status": "200",
   "checked_at": "2026-09-21",
-  "submitted": true
+  "submitted": false
  },
  "https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/": {
   "archive_url": "https://web.archive.org/web/20260905081006/https://openai.com/index/advancing-the-price-performance-frontier-with-gpt-5-6/",
@@ -151,34 +172,52 @@
   "submitted": false
  },
  "https://techafricanews.com/2026/08/07/airtels-150m-kenya-data-centre-now-targets-july-2027-launch/": {
-  "status": "none",
+  "archive_url": "https://web.archive.org/web/20260921122930/https://techafricanews.com/2026/08/07/airtels-150m-kenya-data-centre-now-targets-july-2027-launch/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
   "checked_at": "2026-09-21",
-  "submitted": true
+  "submitted": false
  },
  "https://techafricanews.com/2026/08/10/project-bridge-enters-execution-phase-with-bridge-oa-incorporation/": {
-  "status": "none",
+  "archive_url": "https://web.archive.org/web/20260921122927/https://techafricanews.com/2026/08/10/project-bridge-enters-execution-phase-with-bridge-oa-incorporation/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
   "checked_at": "2026-09-21",
-  "submitted": true
+  "submitted": false
  },
  "https://techafricanews.com/2026/08/26/cassava-ai-factory-ranks-36th-top500/": {
-  "status": "none",
+  "archive_url": "https://web.archive.org/web/20260921122937/https://techafricanews.com/2026/08/26/cassava-ai-factory-ranks-36th-top500/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
   "checked_at": "2026-09-21",
-  "submitted": true
+  "submitted": false
  },
  "https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/": {
-  "status": "none",
+  "archive_url": "https://web.archive.org/web/20260921123321/https://techafricanews.com/2026/09/04/egypt-explores-major-data-centre-ai-hub-project-heka-data-us-consortium/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
   "checked_at": "2026-09-21",
-  "submitted": true
+  "submitted": false
  },
  "https://techafricanews.com/2026/09/07/digital-realty-opens-6-4mw-nairobi-two-data-center-east-africa/": {
-  "status": "none",
+  "archive_url": "https://web.archive.org/web/20260921123344/https://techafricanews.com/2026/09/07/digital-realty-opens-6-4mw-nairobi-two-data-center-east-africa/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
   "checked_at": "2026-09-21",
-  "submitted": true
+  "submitted": false
  },
  "https://techafricanews.com/2026/09/08/egypt-vodafone-elsewedy-cassava-1bn-data-centre/": {
-  "status": "none",
+  "archive_url": "https://web.archive.org/web/20260921123009/https://techafricanews.com/2026/09/08/egypt-vodafone-elsewedy-cassava-1bn-data-centre/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
   "checked_at": "2026-09-21",
-  "submitted": true
+  "submitted": false
  },
  "https://techcabal.com/": {
   "archive_url": "https://web.archive.org/web/20260912170311/https://techcabal.com/",
@@ -291,5 +330,126 @@
   "http_status": "200",
   "checked_at": "2026-09-21",
   "submitted": false
+ },
+ "https://api-docs.deepseek.com/quick_start/pricing": {
+  "archive_url": "https://web.archive.org/web/20260917051418/https://api-docs.deepseek.com/quick_start/pricing/",
+  "archived_at": "2026-09-17",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html?locale=en_US": {
+  "archive_url": "https://web.archive.org/web/20260918172743/https://cdn.deepseek.com/policies/en-US/deepseek-terms-of-use.html?locale=en_US",
+  "archived_at": "2026-09-18",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://chatgpt.com/pricing/": {
+  "archive_url": "https://web.archive.org/web/20260920222650/https://chatgpt.com/pricing/",
+  "archived_at": "2026-09-20",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://claude.com/pricing": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true
+ },
+ "https://copilot.com/": {
+  "archive_url": "https://web.archive.org/web/20260921090333/https://copilot.com/",
+  "archived_at": "2026-09-21",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://gemini.google/ng/subscriptions/": {
+  "archive_url": "https://web.archive.org/web/20251007194859/https://gemini.google/ng/subscriptions/",
+  "archived_at": "2025-10-07",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://gemini.google/subscriptions/?hl=en&gl=us": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true
+ },
+ "https://help.openai.com/en/articles/7947663-chatgpt-supported-countries": {
+  "archive_url": "https://web.archive.org/web/20260917085436/https://help.openai.com/en/articles/7947663-chatgpt-supported-countries",
+  "archived_at": "2026-09-17",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://openai.com/index/introducing-chatgpt-go/": {
+  "archive_url": "https://web.archive.org/web/20260903055853/https://openai.com/index/introducing-chatgpt-go/",
+  "archived_at": "2026-09-03",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://support.google.com/gemini/answer/13575153": {
+  "archive_url": "https://web.archive.org/web/20260913162652/https://support.google.com/gemini/answer/13575153",
+  "archived_at": "2026-09-13",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://support.google.com/googleplay/answer/2651410?hl=en&co=GENIE.CountryCode%3DEG": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true
+ },
+ "https://support.google.com/googleplay/answer/2651410?hl=en&co=GENIE.CountryCode%3DGH": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true
+ },
+ "https://support.google.com/googleplay/answer/2651410?hl=en&co=GENIE.CountryCode%3DKE": {
+  "archive_url": "https://web.archive.org/web/20260816160910/https://support.google.com/googleplay/answer/2651410?co=GENIE.CountryCode%3DKE&hl=en",
+  "archived_at": "2026-08-16",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://support.google.com/googleplay/answer/2651410?hl=en&co=GENIE.CountryCode%3DMA": {
+  "archive_url": "https://web.archive.org/web/20260513085552/https://support.google.com/googleplay/answer/2651410?co=GENIE.CountryCode%3DMA&hl=en",
+  "archived_at": "2026-05-13",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://support.google.com/googleplay/answer/2651410?hl=en&co=GENIE.CountryCode%3DNG": {
+  "archive_url": "https://web.archive.org/web/20260610135824/https://support.google.com/googleplay/answer/2651410?co=GENIE.CountryCode%3DNG&hl=en",
+  "archived_at": "2026-06-10",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://support.google.com/googleplay/answer/2651410?hl=en&co=GENIE.CountryCode%3DZA": {
+  "archive_url": "https://web.archive.org/web/20260302012235/https://support.google.com/googleplay/answer/2651410?co=GENIE.CountryCode%3DZA&hl=en",
+  "archived_at": "2026-03-02",
+  "status": "found",
+  "http_status": "200",
+  "checked_at": "2026-09-21",
+  "submitted": false
+ },
+ "https://techcabal.com/2026/08/17/how-to-pay-for-premium-ai-tools-like-chatgpt-plus-and-claude-pro-in-nigeria/": {
+  "status": "none",
+  "checked_at": "2026-09-21",
+  "submitted": true
  }
 }

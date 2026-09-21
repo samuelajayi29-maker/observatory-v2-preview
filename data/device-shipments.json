@@ -45,7 +45,9 @@
    "legacy_type": "forecast",
    "originating_source": "Omdia",
    "evidence_host": "omdia.tech.informa.com",
-   "source_quality": "bare_domain"
+   "source_quality": "bare_domain",
+   "archive_url": "https://web.archive.org/web/20260914042150/https://omdia.tech.informa.com/",
+   "archived_at": "2026-09-14"
   },
   {
    "date": "2026-08-20",

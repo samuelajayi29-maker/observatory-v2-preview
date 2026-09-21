@@ -279,7 +279,9 @@
    "legacy_status": "reported",
    "originating_source": "AIPricing Guru / LM Market Cap",
    "evidence_host": "lmmarketcap.com",
-   "source_quality": "ok"
+   "source_quality": "ok",
+   "archive_url": "https://web.archive.org/web/20260921122830/https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna",
+   "archived_at": "2026-09-21"
   },
   {
    "date": "2026-07-09",
@@ -301,7 +303,9 @@
    "legacy_status": "reported",
    "originating_source": "AIPricing Guru / LM Market Cap",
    "evidence_host": "lmmarketcap.com",
-   "source_quality": "ok"
+   "source_quality": "ok",
+   "archive_url": "https://web.archive.org/web/20260921122830/https://lmmarketcap.com/reports/gpt-5-6-sol-terra-luna",
+   "archived_at": "2026-09-21"
   },
   {
    "date": "2026-07-09",
@@ -357,7 +361,9 @@
    "temporal_status": "measured",
    "headline_eligible": false,
    "evidence_host": "deepseekv4pro.com",
-   "source_quality": "ok"
+   "source_quality": "ok",
+   "archive_url": "https://web.archive.org/web/20260921122725/https://deepseekv4pro.com/news/deepseek-v4-pro-0813-official-release-opus-fable-benchmarks",
+   "archived_at": "2026-09-21"
   },
   {
    "date": "2026-08-16",
