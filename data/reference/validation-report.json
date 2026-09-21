@@ -4,8 +4,8 @@
  "validated_at": "2026-09-21",
  "counts": {
   "rows_checked": 692,
-  "rows_passing": 6,
-  "rows_quarantined": 47,
+  "rows_passing": 351,
+  "rows_quarantined": 341,
   "rows_missing_archive": 11,
   "rows_with_bad_url": 8,
   "rows_missing_status": 0,
